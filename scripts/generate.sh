@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "FROM openjdk:10-jdk-node"
+echo "FROM circleci/openjdk:10-jdk-node"
 
 echo "RUN apt-get update"
 
